@@ -1,0 +1,11 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "editor.defaultFormatter": "Codeium.codeium",
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "editor.autoIndentOnPaste": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.scrollOnMiddleClick": true,
+    "editor.smoothScrolling": true,
+    "window.autoDetectColorScheme": false
+}
